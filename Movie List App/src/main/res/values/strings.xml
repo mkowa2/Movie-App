@@ -1,0 +1,83 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">CS478_Project2</string>
+    <string name="all_quiet">All Quiet On The Western Front</string>
+    <string name="all_quiet_actors">Felix Kammerer, Albrecht Schuch</string>
+
+    <string name="batman">The Batman</string>
+    <string name="batman_actors">Robert Pattinson, Zoe Kravitz, Paul Dano</string>
+
+    <string name="halloween">Halloween Ends</string>
+    <string name="halloween_actors">James Jude Courtney, Jamie Lee Curtis</string>
+
+    <string name="hunger">The Hunger Games: The Ballad of Songbirds and Snakes</string>
+    <string name="hunger_actors">Rachal Zegler, Tom Blyth, Peter Dinklage</string>
+
+    <string name="indiana">Indiana Jones and the Dial of Destiny</string>
+    <string name="indiana_actors">Harrison Ford, Mads Mikkelsen</string>
+
+    <string name="oppenheimer">Oppenheimer</string>
+    <string name="oppenheimer_actors">Cillian Murphy, Matt Damon</string>
+
+    <string name="tmnt">Teenage Mutant Ninja Turtles: Mutant Mayhem</string>
+    <string name="tmnt_actors">Nicolas Cantu, Seth Rogen, MrBeast</string>
+
+    <string name="x">X</string>
+    <string name="x_actors">Mia Goth, Jenna Ortega, Kid Cudi</string>
+
+    <string name="viewFull">View Full Poster</string>
+    <string name="viewWiki">View Wikipedia Page</string>
+    <string name="viewServices">View Streaming Services</string>
+
+
+
+    <string name="netflix">Netflix</string>
+    <string name="allquiet_netflix">https://www.netflix.com/title/81260280?source=35</string>
+
+
+    <string name="max">Max</string>
+    <string name="batman_max">https://www.max.com/movies/batman/dfa50804–e6f6-4fa2-a732-693dbc50527b</string>
+    <string name="amazon">Amazon</string>
+    <string name="batman_amazon" tools:ignore="TypographyDashes">https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f50f8c44-66ba-4e83-94bb-82fb40c52159?autoplay=0&amp;ref_=atv_cf_strg_wb</string>
+
+    <string name="peacock">Peacock</string>
+    <string name="halloween_peacock">https://www.peacocktv.com/signin?return=%2Fwatch%2Fasset%2Fmovies%2Fhalloween–ends%2Fa0511b2c–6f33–3817-897c-f11d0145634a</string>
+    <string name="youtube">Youtube</string>
+    <string name="halloween_youtube">https://www.youtube.com/watch?v=nJkJ4mtBisg</string>
+
+    <string name="vudu">Vudu</string>
+    <string name="hunger_vudu">https://www.vudu.com/content/browse/details/The-Hunger-Games-The-Ballad-of-Songbirds-Snakes/2700037?cmp=OrganicSearch~Vudu~GoogleWatch</string>
+    <string name="hunger_amazon" tools:ignore="TypographyDashes">https://www.amazon.com/gp/video/detail/amzn1.dv.gti.54fe47fb-1569-4c88-81dd-1f24a83813a9?autoplay=0&amp;ref_=atv_cf_strg_wb</string>
+
+    <string name="disney">Disney</string>
+    <string name="indiana_disney">https://www.disneyplus.com/movies/indiana-jones-and-the-dial-of-destiny/5jJ2qq6DKlf3</string>
+    <string name="indiana_youtube">https://www.youtube.com/watch?v=NVuvvvPHjd0</string>
+
+    <string name="oppenheimer_peacock">https://www.peacocktv.com/signin?return=%2Fwatch%2Fasset%2Fmovies%2Foppenheimer%2F602fd345–3ad6–33fd-a70d-a0e059b8d38a</string>
+    <string name="oppenheimer_youtube">https://www.youtube.com/watch?v=PQg_at1ICjU</string>
+
+    <string name="paramount">Paramount+</string>
+    <string name="tmnt_paramount" tools:ignore="TypographyDashes">https://www.paramountplus.com/movies/video/zzvVWZ_qkLDj2LXltHmuZlUsX8BfdZ7U/?searchReferral=desktop-web&amp;source=google-organic&amp;ftag=PPM-23-10bfh8c</string>
+    <string name="tmnt_amazon" tools:ignore="TypographyDashes">https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d6895f53-cc45-403f-9ffa-e495d103c7b1?autoplay=0&amp;ref_=atv_cf_strg_wb</string>
+
+    <string name="x_netflix">https://www.netflix.com/title/81577798?source=35</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

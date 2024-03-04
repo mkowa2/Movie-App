@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/view_full_poster"
+        android:title="@string/viewFull"/>
+    <item
+        android:id="@+id/view_wikipedia_page"
+        android:title="@string/viewWiki"/>
+    <item
+        android:id="@+id/view_streaming_services"
+        android:title="@string/viewServices"/>
+</menu>
